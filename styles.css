@@ -1,0 +1,66 @@
+.hero {
+background-image: url('./pic_1.jpg');
+  background-size: cover;
+  height: auto;
+  background-position: center; 
+  font-family: 'Source Sans Pro', sans-serif;
+  background-size: cover;
+}
+
+.spacing {
+  margin-top: 220px;
+  font-size: 120px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+}
+
+.register-button {
+    background-color: #C271FF;
+    margin-bottom: 12rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.thumb {
+    height: 150px;
+    width: 150px;
+}
+
+.purple {
+  color: #C271FF !important;
+}
+
+.bg-color {
+  background-color: #C271FF;
+}
+
+.carousel-container {
+  width: 75%;
+  height: 90%;
+}
+
+.tutorial-frame {
+
+  background-color: aqua;
+}
+
+button:hover {
+  opacity: .9;
+}
+
+.membership {
+  background: #071629;
+}
+
+.register-button-lower {
+  background-color: #C271FF;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+}
+
+footer {
+background-color: #071629;
+}
+
+footer small {
+  color: background: #FFFFFF;
+}
