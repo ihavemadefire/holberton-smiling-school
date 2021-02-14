@@ -11,7 +11,7 @@ background-image: url('./pic_1.jpg');
   font-weight: 700;
 }
 
-.active {
+.active-nav {
   border-bottom: 2px solid white;
 }
 
