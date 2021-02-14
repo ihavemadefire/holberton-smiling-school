@@ -149,5 +149,51 @@ footer small {
   font-size: 14px;
   line-height: 24px;
   color: #071629 50.16%;
-  ;
 }
+
+.text-hero-courses {
+  font-family: 'Coiny', cursive;
+  font-size: 32px;
+  width: 480px;
+}
+
+.search-section {
+  background-color: #C271FF;
+}
+
+.search-labels {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.search-box {
+  height: 51px;
+  background-color: rgba(0, 0, 0, .25);
+  mix-blend-mode: normal;
+  border-radius: 3px 3px 0px 0px;
+}
+
+.search-icon {
+  opacity: 1;
+
+}
+
+.search-text {
+  font-family: 'Source Sans Pro', sans-serif;
+  mix-blend-mode: normal;
+  opacity: .5;
+  font-weight: 300;
+  font-size: 23px;
+  line-height: 29px;
+  
+}
+
+.hero-courses {
+  background-image: url('./pic_3.jpg');
+    background-size: cover;
+    height: auto;
+    background-position: center; 
+    font-family: 'Source Sans Pro', sans-serif;
+    background-size: cover;
+  }
