@@ -123,3 +123,29 @@ footer small {
   border-bottom: 1px solid rgba(255, 255, 255, .2);
   mix-blend-mode: normal;
 }
+
+.faq-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 75px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #071629;
+
+}
+
+.faq-sub-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+  size: 16px;
+  line-height: 20.11px;
+}
+
+.faq-text {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
