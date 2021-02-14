@@ -91,3 +91,35 @@ footer small {
    font-weight: 700;
    font-size: 60px;
  }
+
+ .price {
+   font-size: 44px;
+   font-weight: 700;
+
+ }
+
+ .price-per {
+   font-size: 12px;
+   font-weight: 400;
+   color: #FFFFFF;
+   mix-blend-mode: normal;
+  opacity: 0.5;
+ }
+ 
+ .price-button {
+  background-color: #C271FF;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  width: 162px;
+  height: 44px;
+  line-height: 17.6px;
+}
+
+.left-column-text {
+  font-size: 18px;
+}
+
+.row-border {
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+  mix-blend-mode: normal;
+}
